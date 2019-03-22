@@ -1,0 +1,79 @@
+.outerformdiv{
+    display:flex;
+    flex-direction:column;
+    float:left;
+    vertical-align: top;
+    margin-left:20px;
+}
+.resultdata{
+    display:flex;
+    flex-direction:row;
+    float:center;
+    vertical-align: top;
+    margin-left:20px;
+    margin-top:10px;
+    padding-left:10px;
+    padding-top:10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.outerdiv{
+    border:1px solid grey;
+    width:700px;
+    height:250px;
+    margin-top:100px;
+    margin-left:200px;
+    font-size: 17px;
+    color:rgb(85, 84, 84);
+    font-family: 'Comic Sans MS';
+}
+.buttonstyle{
+   
+    height:50px;
+    width:200px;
+    margin-top:30px;
+    font-size: 17px !important;
+    color:rgb(85, 84, 84);
+    font-family: 'Comic Sans MS' !important;
+}
+.textstyle{
+    font-size: 17px;
+    color:rgb(85, 84, 84);
+    font-family: 'Comic Sans MS';
+}
+.resultouterdiv{
+    margin-top:40px;
+    display:flex;
+    flex-direction:column;
+    float:left;
+    
+}
+.messagespan{
+    font-size: 22px;
+    color:rgb(11, 179, 75);
+    font-family: 'Comic Sans MS';
+    font-weight: bold;
+
+}
+.disable{
+    cursor: not-allowed;
+    pointer-events: none;
+    height:50px;
+    width:200px;
+    margin-top:30px;
+    font-size: 17px !important;
+    color:rgb(85, 84, 84);
+    font-family: 'Comic Sans MS' !important;
+ }
+ .errorspan{
+    font-size: 15px;
+    color:rgb(175, 56, 76);
+    font-family: 'Comic Sans MS';
+
+ }
+ .errorouterdiv{
+    margin-top:90px;
+    padding-left:30px;
+
+ }
+
